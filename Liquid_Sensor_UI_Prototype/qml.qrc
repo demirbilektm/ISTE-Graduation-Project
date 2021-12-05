@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/mainpage-background.png</file>
+        <file>LogPage.qml</file>
+        <file>MeasurementPage.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>CircularSlider.qml</file>
+        <file>Images/back-button.png</file>
+        <file>Images/left-arrow.png</file>
+    </qresource>
+</RCC>
